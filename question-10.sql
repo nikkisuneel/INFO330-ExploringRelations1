@@ -1,1 +1,1 @@
-
+sqlite> INSERT INTO persons (first_name, last_name, email, gender, title, age, address, city, state, postalcode, phone) VALUES ('Nikhila', 'Suneel', 'nikkisun7@hotmail.com', 'Female', 'Ms', '19', '1201 NE Campus Pkwy', 'Seattle', 'Washington', '98075', '425-524-1049');
